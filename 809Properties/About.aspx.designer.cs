@@ -10,6 +10,6 @@
 namespace _809Properties {
     
     
-    public partial class Contact {
+    public partial class About {
     }
 }

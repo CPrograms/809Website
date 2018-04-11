@@ -1,6 +1,9 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Elements.aspx.cs" Inherits="_809Properties.Elements" %>
+
 <!DOCTYPE html>
-<html lang="en">
-<head>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
 <title>The Estate - Elements</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,7 +18,7 @@
 <link rel="stylesheet" type="text/css" href="styles/elements_responsive.css">
 </head>
 
-<body>
+<body runat="server">
 
 <div class="super_container">
 	
@@ -32,7 +35,7 @@
 							<h2>elements</h2>
 						</div>
 						<div class="breadcrumbs">
-							<span><a href="index.html">Home</a></span>
+							<span><a href="Home.aspx">Home</a></span>
 							<span><a href="#"> Elements</a></span>
 						</div>
 					</div>
@@ -64,11 +67,10 @@
 
 						<nav class="main_nav">
 							<ul class="main_nav_list">
-								<li class="main_nav_item"><a href="index.html">home</a></li>
-								<li class="main_nav_item"><a href="about.html">about us</a></li>
-								<li class="main_nav_item"><a href="listings.html">listings</a></li>
-								<li class="main_nav_item"><a href="news.html">news</a></li>
-								<li class="main_nav_item"><a href="contact.html">contact</a></li>
+								<li class="main_nav_item"><a href="Home.aspx">home</a></li>
+								<li class="main_nav_item"><a href="About.aspx">about us</a></li>
+								<li class="main_nav_item"><a href="Listings.aspx">listings</a></li>
+								<li class="main_nav_item"><a href="Contact.aspx">contact</a></li>
 							</ul>
 						</nav>
 						
@@ -99,7 +101,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<a href="index.html">home</a>
+								<a href="Home.aspx">home</a>
 							</div>
 						</div>
 					</div>
@@ -108,7 +110,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<a href="about.html">about us</a>
+								<a href="About.aspx">about us</a>
 							</div>
 						</div>
 					</div>
@@ -117,7 +119,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<a href="listings.html">listings</a>
+								<a href="Listings.aspx">listings</a>
 							</div>
 						</div>
 					</div>
@@ -126,16 +128,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<a href="news.html">news</a>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li class="menu_item">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<a href="contact.html">contact</a>
+								<a href="Contact.aspx">contact</a>
 							</div>
 						</div>
 					</div>

@@ -7,10 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _809Properties { 
-
-
-
-    public partial class ContactUs {
+namespace _809Properties {
+    
+    
+    public partial class Listings {
     }
 }
