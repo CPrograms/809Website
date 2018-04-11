@@ -101,6 +101,12 @@
     <Content Include="contact.html" />
     <Content Include="elements.html" />
     <Content Include="Home.aspx" />
+    <Content Include="Images\809front\1108SLewis-Front.jpg" />
+    <Content Include="Images\809front\2024NHusband-Front.jpg" />
+    <Content Include="Images\809front\2112NHusband-Front.jpg" />
+    <Content Include="Images\809front\2222NGlenwood-Front.jpg" />
+    <Content Include="Images\809front\424.426SWest-Front.jpg" />
+    <Content Include="Images\809front\810SWest-Front.jpg" />
     <Content Include="Images\agent_1.jpg" />
     <Content Include="Images\agent_2.jpg" />
     <Content Include="Images\agent_3.jpg" />
