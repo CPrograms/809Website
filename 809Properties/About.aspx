@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<title>The Estate - About</title>
+<title>809 Properties - About</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="The Estate Teplate">
@@ -55,8 +55,8 @@
 						<div class="logo_container">
 							<a href="#">
 								<div class="logo">
-									<img src="images/logo.png" alt="">
-									<span>the estate</span>
+									<img src="Images/houselogo(1).jpg" alt="" style="height:100px; width:100px"/>
+									<span>809 Properties</span>
 								</div>
 							</a>
 						</div>
@@ -68,7 +68,6 @@
 								<li class="main_nav_item"><a href="Home.aspx">home</a></li>
 								<li class="main_nav_item"><a href="#">about us</a></li>
 								<li class="main_nav_item"><a href="Listings.aspx">listings</a></li>
-								<li class="main_nav_item"><a href="news.html">news</a></li>
 								<li class="main_nav_item"><a href="Contact.aspx">contact</a></li>
 							</ul>
 						</nav>
@@ -166,70 +165,7 @@
 		</div>
 	</div>
 
-	<!-- Milestones -->
-
-	<div class="milestones">
-		<div class="milestones_background parallax-window" data-parallax="scroll" data-image-src="images/milestones.jpg"></div>
-		<div class="container">
-			<div class="row">
-				
-				<!-- Milestone -->
-				<div class="col-lg-2 milestone_col">
-					<div class="milestone text-center d-flex flex-column align-items-center justify-content-start">
-						<div class="milestone_icon d-flex flex-column justify-content-end"><img src="images/milestone_1.svg" alt=""></div>
-						<div class="milestone_counter" data-end-value="310">0</div>
-						<div class="milestone_text">houses sold</div>
-					</div>
-				</div>
-
-				<!-- Milestone -->
-				<div class="col-lg-2 milestone_col">
-					<div class="milestone text-center d-flex flex-column align-items-center justify-content-start">
-						<div class="milestone_icon d-flex flex-column justify-content-end"><img src="images/milestone_2.svg" alt=""></div>
-						<div class="milestone_counter" data-end-value="129">0</div>
-						<div class="milestone_text">clients</div>
-					</div>
-				</div>
-
-				<!-- Milestone -->
-				<div class="col-lg-2 milestone_col">
-					<div class="milestone text-center d-flex flex-column align-items-center justify-content-start">
-						<div class="milestone_icon d-flex flex-column justify-content-end"><img src="images/milestone_3.svg" alt=""></div>
-						<div class="milestone_counter" data-end-value="14">0</div>
-						<div class="milestone_text">agents</div>
-					</div>
-				</div>
-
-				<!-- Milestone -->
-				<div class="col-lg-2 milestone_col">
-					<div class="milestone text-center d-flex flex-column align-items-center justify-content-start">
-						<div class="milestone_icon d-flex flex-column justify-content-end"><img src="images/milestone_4.svg" alt=""></div>
-						<div class="milestone_counter" data-end-value="521">0</div>
-						<div class="milestone_text">rents</div>
-					</div>
-				</div>
-
-				<!-- Milestone -->
-				<div class="col-lg-2 milestone_col">
-					<div class="milestone text-center d-flex flex-column align-items-center justify-content-start">
-						<div class="milestone_icon d-flex flex-column justify-content-end"><img src="images/milestone_5.svg" alt=""></div>
-						<div class="milestone_counter" data-end-value="1107">0</div>
-						<div class="milestone_text">contracts</div>
-					</div>
-				</div>
-
-				<!-- Milestone -->
-				<div class="col-lg-2 milestone_col">
-					<div class="milestone text-center d-flex flex-column align-items-center justify-content-start">
-						<div class="milestone_icon d-flex flex-column justify-content-end"><img src="images/milestone_6.svg" alt=""></div>
-						<div class="milestone_counter" data-end-value="39">0</div>
-						<div class="milestone_text">investments</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
+	
 
 	<!-- Agents -->
 
@@ -330,45 +266,7 @@
 		</div>
 	</div>
 
-	<!-- Newsletter -->
-
-	<div class="newsletter">
-		<div class="container">
-			<div class="row row-equal-height">
-
-				<div class="col-lg-6">
-					<div class="newsletter_title">
-						<h3>subscribe to our newsletter</h3>
-						<span class="newsletter_subtitle">Get the latest offers</span>
-					</div>
-					<div class="newsletter_form_container">
-						<form action="#">
-							<div class="newsletter_form_content d-flex flex-row">
-								<input id="newsletter_email" class="newsletter_email" type="email" placeholder="Your email here" required="required" data-error="Valid email is required.">
-								<button id="newsletter_submit" type="submit" class="newsletter_submit_btn trans_200" value="Submit">subscribe</button>
-							</div>
-						</form>
-					</div>
-				</div>
-
-				<div class="col-lg-6">
-					<a href="#">
-						<div class="weekly_offer">
-							<div class="weekly_offer_content d-flex flex-row">
-								<div class="weekly_offer_icon d-flex flex-column align-items-center justify-content-center">
-									<img src="images/prize.svg" alt="">
-								</div>
-								<div class="weekly_offer_text text-center">weekly offer</div>
-							</div>
-							<div class="weekly_offer_image" style="background-image:url(images/weekly.jpg)"></div>
-						</div>
-					</a>
-				</div>
-
-			</div>
-		</div>
-	</div>
-
+	
 	<!-- Footer -->
 
 	<footer class="footer">
@@ -377,13 +275,13 @@
 				
 				<!-- Footer About -->
 
-				<div class="col-lg-3 footer_col">
+				<div class="col-lg-4 footer_col">
 					<div class="footer_col_title">
 						<div class="logo_container">
 							<a href="#">
 								<div class="logo">
-									<img src="images/logo.png" alt="">
-									<span>the estate</span>
+									<img src="Images/houselogo(1).jpg" alt="" style="height:90px; width:100px"/>
+									<span>809 Properties</span>
 								</div>
 							</a>
 						</div>
@@ -393,8 +291,6 @@
 							<li class="footer_social_item"><a href="#"><i class="fab fa-pinterest"></i></a></li>
 							<li class="footer_social_item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 							<li class="footer_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-							<li class="footer_social_item"><a href="#"><i class="fab fa-dribbble"></i></a></li>
-							<li class="footer_social_item"><a href="#"><i class="fab fa-behance"></i></a></li>
 						</ul>
 					</div>
 					<div class="footer_about">
@@ -402,24 +298,8 @@
 					</div>
 				</div>
 				
-				<!-- Footer Useful Links -->
-
-				<div class="col-lg-3 footer_col">
-					<div class="footer_col_title">useful links</div>
-					<ul class="footer_useful_links">
-						<li class="useful_links_item"><a href="#">Listings</a></li>
-						<li class="useful_links_item"><a href="#">Favorite Cities</a></li>
-						<li class="useful_links_item"><a href="#">Clients Testimonials</a></li>
-						<li class="useful_links_item"><a href="#">Featured Listings</a></li>
-						<li class="useful_links_item"><a href="#">Properties on Offer</a></li>
-						<li class="useful_links_item"><a href="#">Services</a></li>
-						<li class="useful_links_item"><a href="#">News</a></li>
-						<li class="useful_links_item"><a href="#">Our Agents</a></li>
-					</ul>
-				</div>
-
 				<!-- Footer Contact Form -->
-				<div class="col-lg-3 footer_col">
+				<div class="col-lg-4 footer_col">
 					<div class="footer_col_title">say hello</div>
 					<div class="footer_contact_form_container">
 						<form id="footer_contact_form" class="footer_contact_form" action="post">
@@ -433,7 +313,7 @@
 
 				<!-- Footer Contact Info -->
 
-				<div class="col-lg-3 footer_col">
+				<div class="col-lg-4 footer_col">
 					<div class="footer_col_title">contact info</div>
 					<ul class="contact_info_list">
 						<li class="contact_info_item d-flex flex-row">
@@ -461,11 +341,6 @@
 
 	<!-- Credits -->
 
-	<div class="credits">
-		<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
-	</div>
 
 </div>
 

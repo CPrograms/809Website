@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<title>The Estate - Listings</title>
+<title>809 Properties - Listings</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="The Estate Teplate">
@@ -22,24 +22,7 @@
 	<!-- Home -->
 	<div class="home">
 		<!-- Image by: https://unsplash.com/@jbriscoe -->
-		<div class="home_background" style="background-image:url(images/listings.jpg)"></div>
-		
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="home_content">
-						<div class="home_title">
-							<h2>listings</h2>
-						</div>
-						<div class="breadcrumbs">
-							<span><a href="Home.aspx">Home</a></span>
-							<span><a href="#"> Search</a></span>
-							<span><a href="#"> Listings</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		<div class="home_background" style="background-image:url(images/listings.jpg)"></div>		
 	</div>
 
 	<!-- Header -->
@@ -55,8 +38,8 @@
 						<div class="logo_container">
 							<a href="#">
 								<div class="logo">
-									<img src="images/logo.png" alt="">
-									<span>the estate</span>
+									<img src="Images/houselogo(1).jpg" alt="" style="height:100px; width:100px"/>
+									<span>809 Properties</span>
 								</div>
 							</a>
 						</div>
@@ -66,9 +49,8 @@
 						<nav class="main_nav">
 							<ul class="main_nav_list">
 								<li class="main_nav_item"><a href="Home.aspx">home</a></li>
-								<li class="main_nav_item"><a href="about.html">about us</a></li>
+								<li class="main_nav_item"><a href="about.aspx">about us</a></li>
 								<li class="main_nav_item"><a href="#">listings</a></li>
-								<li class="main_nav_item"><a href="news.html">news</a></li>
 								<li class="main_nav_item"><a href="Contact.aspx">contact</a></li>
 							</ul>
 						</nav>
@@ -705,13 +687,13 @@
 				
 				<!-- Footer About -->
 
-				<div class="col-lg-3 footer_col">
+				<div class="col-lg-4 footer_col">
 					<div class="footer_col_title">
 						<div class="logo_container">
 							<a href="#">
 								<div class="logo">
-									<img src="images/logo.png" alt="">
-									<span>the estate</span>
+									<img src="Images/houselogo(1).jpg" alt="" style="height:90px; width:100px"/>
+									<span>809 Properties</span>
 								</div>
 							</a>
 						</div>
@@ -721,8 +703,6 @@
 							<li class="footer_social_item"><a href="#"><i class="fab fa-pinterest"></i></a></li>
 							<li class="footer_social_item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 							<li class="footer_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-							<li class="footer_social_item"><a href="#"><i class="fab fa-dribbble"></i></a></li>
-							<li class="footer_social_item"><a href="#"><i class="fab fa-behance"></i></a></li>
 						</ul>
 					</div>
 					<div class="footer_about">
@@ -730,24 +710,9 @@
 					</div>
 				</div>
 				
-				<!-- Footer Useful Links -->
-
-				<div class="col-lg-3 footer_col">
-					<div class="footer_col_title">useful links</div>
-					<ul class="footer_useful_links">
-						<li class="useful_links_item"><a href="#">Listings</a></li>
-						<li class="useful_links_item"><a href="#">Favorite Cities</a></li>
-						<li class="useful_links_item"><a href="#">Clients Testimonials</a></li>
-						<li class="useful_links_item"><a href="#">Featured Listings</a></li>
-						<li class="useful_links_item"><a href="#">Properties on Offer</a></li>
-						<li class="useful_links_item"><a href="#">Services</a></li>
-						<li class="useful_links_item"><a href="#">News</a></li>
-						<li class="useful_links_item"><a href="#">Our Agents</a></li>
-					</ul>
-				</div>
 
 				<!-- Footer Contact Form -->
-				<div class="col-lg-3 footer_col">
+				<div class="col-lg-4 footer_col">
 					<div class="footer_col_title">say hello</div>
 					<div class="footer_contact_form_container">
 						<form id="footer_contact_form" class="footer_contact_form" action="post">
@@ -761,7 +726,7 @@
 
 				<!-- Footer Contact Info -->
 
-				<div class="col-lg-3 footer_col">
+				<div class="col-lg-4 footer_col">
 					<div class="footer_col_title">contact info</div>
 					<ul class="contact_info_list">
 						<li class="contact_info_item d-flex flex-row">
@@ -789,11 +754,7 @@
 
 	<!-- Credits -->
 
-	<div class="credits">
-		<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
-	</div>
+	
 
 </div>
 

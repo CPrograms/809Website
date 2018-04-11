@@ -62,3 +62,6 @@ C:\Users\thandr\Source\Repos\809Website\809Properties\bin\Microsoft.CodeDom.Prov
 C:\Users\thandr\Source\Repos\809Website\809Properties\obj\Debug\809Properties.csprojResolveAssemblyReference.cache
 C:\Users\thandr\Source\Repos\809Website\809Properties\obj\Debug\809Properties.dll
 C:\Users\thandr\Source\Repos\809Website\809Properties\obj\Debug\809Properties.pdb
+C:\Users\gmao\Source\Repos\809Website\809Properties\obj\Debug\809Properties.csprojResolveAssemblyReference.cache
+C:\Users\gmao\Source\Repos\809Website\809Properties\obj\Debug\809Properties.dll
+C:\Users\gmao\Source\Repos\809Website\809Properties\obj\Debug\809Properties.pdb
