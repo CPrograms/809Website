@@ -5,14 +5,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <title>809 Properties - Listings</title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="The Estate Teplate">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
-<link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="styles/listings_styles.css">
-<link rel="stylesheet" type="text/css" href="styles/listings_responsive.css">
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="description" content="The Estate Teplate"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css"/>
+<link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" href="styles/listings_styles.css"/>
+<link rel="stylesheet" type="text/css" href="styles/listings_responsive.css"/>
 </head>
 
 <body runat="server">
@@ -146,7 +146,7 @@
 							<!-- Search Box Title -->
 							<div class="search_box_title text-center">
 								<div class="search_box_title_inner">
-									<div class="search_box_title_icon d-flex flex-column align-items-center justify-content-center"><img src="images/search.png" alt=""></div>
+									<div class="search_box_title_icon d-flex flex-column align-items-center justify-content-center"><img src="images/search.png" alt=""/></div>
 									<span>search your home</span>
 								</div>
 							</div>
@@ -253,68 +253,68 @@
 									<ul class="search_features clearfix">
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_1" class="search_features_cb">
+												<input type="checkbox" id="search_features_1" class="search_features_cb"/>
 												<label for="search_features_1">Feature 1</label>
 											</div>	
 										</li>
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_2" class="search_features_cb">
+												<input type="checkbox" id="search_features_2" class="search_features_cb"/>
 												<label for="search_features_2">Feature 2</label>
 											</div>
 										</li>
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_3" class="search_features_cb">
+												<input type="checkbox" id="search_features_3" class="search_features_cb"/>
 												<label for="search_features_3">Feature 3</label>
 											</div>
 										</li>
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_4" class="search_features_cb">
+												<input type="checkbox" id="search_features_4" class="search_features_cb"/>
 												<label for="search_features_4">Feature 4</label>
 											</div>
 										</li>
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_5" class="search_features_cb">
+												<input type="checkbox" id="search_features_5" class="search_features_cb"/>
 												<label for="search_features_5">Feature 5</label>
 											</div>
 										</li>
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_6" class="search_features_cb">
+												<input type="checkbox" id="search_features_6" class="search_features_cb"/>
 												<label for="search_features_6">Feature 6</label>
 											</div>
 										</li>
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_7" class="search_features_cb">
+												<input type="checkbox" id="search_features_7" class="search_features_cb"/>
 												<label for="search_features_7">Feature 7</label>
 											</div>
 										</li>
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_8" class="search_features_cb">
+												<input type="checkbox" id="search_features_8" class="search_features_cb"/>
 												<label for="search_features_8">Feature 8</label>
 											</div>
 										</li>
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_9" class="search_features_cb">
+												<input type="checkbox" id="search_features_9" class="search_features_cb"/>
 												<label for="search_features_9">Feature 9</label>
 											</div>
 										</li>
 										<li class="search_features_item">
 											<div>
-												<input type="checkbox" id="search_features_10" class="search_features_cb">
+												<input type="checkbox" id="search_features_10" class="search_features_cb"/>
 												<label for="search_features_10">Feature 10</label>
 											</div>
 										</li>
 									</ul>
 
 									<div class="search_button">
-										<input value="search" type="submit" class="search_submit_button">
+										<input value="search" type="submit" class="search_submit_button"/>
 									</div>
 								</div>
 							</form>
@@ -326,14 +326,14 @@
 
 				<div class="col-lg-8 listings_col">
 
-					<!-- Listings Item -->
+					<!-- Listings Item1 -->
 
 					<div class="listing_item">
 						<div class="listing_item_inner d-flex flex-md-row flex-column trans_300">
 							<div class="listing_image_container">
 								<div class="listing_image">
 									<!-- Image by: https://unsplash.com/@breather -->
-									<div class="listing_background" style="background-image:url(images/listing_1.jpg)"></div>
+									<div class="listing_background" style="background-image:url(images/809front/1108SLewis-Front.jpg)"></div>
 								</div>
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
@@ -385,17 +385,17 @@
 						</div>
 					</div>
 
-					<!-- Listings Item -->
+					<!-- Listings Item2 -->
 
 					<div class="listing_item">
 						<div class="listing_item_inner d-flex flex-md-row flex-column trans_300">
 							<div class="listing_image_container">
 								<div class="listing_image">
 									<!-- Image by: https://unsplash.com/@jbriscoe -->
-									<div class="listing_background" style="background-image:url(images/listing_2.jpg)"></div>
+									<div class="listing_background" style="background-image:url(images/809front/2024NHusband-Front.jpg)"></div>
 								</div>
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
-									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
+									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g"/>
 									<div class="featured_card_box_content">
 										<div class="featured_card_price_title trans_300">For Sale</div>
 										<div class="featured_card_price trans_300">$540,000</div>
@@ -445,14 +445,14 @@
 							
 					</div>
 
-					<!-- Listings Item -->
+					<!-- Listings Item3 -->
 
 					<div class="listing_item">
 						<div class="listing_item_inner d-flex flex-md-row flex-column trans_300">
 							<div class="listing_image_container">
 								<div class="listing_image">
 									<!-- Image by: https://unsplash.com/@aahubs -->
-									<div class="listing_background" style="background-image:url(images/listing_3.jpg)"></div>
+									<div class="listing_background" style="background-image:url(images/809front/2112NHusband-Front.jpg)"></div>
 								</div>
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
@@ -470,7 +470,7 @@
 									<div class="room">
 										<span class="room_title">Bedrooms</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/bedroom.png" alt=""></div>
+											<div class="room_image"><img src="images/bedroom.png" alt=""/></div>
 											<span class="room_number">4</span>
 										</div>
 									</div>
@@ -478,7 +478,7 @@
 									<div class="room">
 										<span class="room_title">Bathrooms</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/shower.png" alt=""></div>
+											<div class="room_image"><img src="images/shower.png" alt=""/></div>
 											<span class="room_number">3</span>
 										</div>
 									</div>
@@ -486,7 +486,7 @@
 									<div class="room">
 										<span class="room_title">Area</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""></div>
+											<div class="room_image"><img src="images/area.png" alt=""/></div>
 											<span class="room_number">7100 Sq Ft</span>
 										</div>
 									</div>
@@ -504,14 +504,14 @@
 						</div>
 					</div>
 
-					<!-- Listings Item -->
+					<!-- Listings Item4 -->
 
 					<div class="listing_item">
 						<div class="listing_item_inner d-flex flex-md-row flex-column trans_300">
 							<div class="listing_image_container">
 								<div class="listing_image">
 									<!-- Image by: https://unsplash.com/@pperkins -->
-									<div class="listing_background" style="background-image:url(images/listing_4.jpg)"></div>
+									<div class="listing_background" style="background-image:url(images/809front/424.426SWest-Front.jpg)"></div>
 								</div>
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
@@ -563,14 +563,14 @@
 						</div>
 					</div>
 
-					<!-- Listings Item -->
+					<!-- Listings Item5 -->
 
 					<div class="listing_item">
 						<div class="listing_item_inner d-flex flex-md-row flex-column trans_300">
 							<div class="listing_image_container">
 								<div class="listing_image">
 									<!-- Image by: https://unsplash.com/@breather -->
-									<div class="listing_background" style="background-image:url(images/listing_5.jpg)"></div>
+									<div class="listing_background" style="background-image:url(images/809front/2222NGlenwood-front.jpg)"></div>
 								</div>
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
@@ -582,6 +582,65 @@
 							</div>
 							<div class="listing_content">
 								<div class="listing_title"><a href="listings_single.html">Villa in West Barcelona</a></div>
+								<div class="listing_text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
+								<div class="rooms">
+
+									<div class="room">
+										<span class="room_title">Bedrooms</span>
+										<div class="room_content">
+											<div class="room_image"><img src="images/bedroom.png" alt=""></div>
+											<span class="room_number">4</span>
+										</div>
+									</div>
+
+									<div class="room">
+										<span class="room_title">Bathrooms</span>
+										<div class="room_content">
+											<div class="room_image"><img src="images/shower.png" alt=""></div>
+											<span class="room_number">3</span>
+										</div>
+									</div>
+
+									<div class="room">
+										<span class="room_title">Area</span>
+										<div class="room_content">
+											<div class="room_image"><img src="images/area.png" alt=""></div>
+											<span class="room_number">7100 Sq Ft</span>
+										</div>
+									</div>
+
+								</div>
+
+								<div class="room_tags">
+									<span class="room_tag"><a href="#">Hottub</a></span>
+									<span class="room_tag"><a href="#">Swimming Pool</a></span>
+									<span class="room_tag"><a href="#">Garden</a></span>
+									<span class="room_tag"><a href="#">Patio</a></span>
+									<span class="room_tag"><a href="#">Hard Wood Floor</a></span>
+								</div>
+							</div>
+						</div>
+					</div>
+
+                    	<!-- Listings Item -->
+
+					<div class="listing_item">
+						<div class="listing_item_inner d-flex flex-md-row flex-column trans_300">
+							<div class="listing_image_container">
+								<div class="listing_image">
+									<!-- Image by: https://unsplash.com/@pperkins -->
+									<div class="listing_background" style="background-image:url(images/809front/810SWest-Front.jpg)"></div>
+								</div>
+								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
+									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
+									<div class="featured_card_box_content">
+										<div class="featured_card_price_title trans_300">For Sale</div>
+										<div class="featured_card_price trans_300">$540,000</div>
+									</div>
+								</div>
+							</div>
+							<div class="listing_content">
+								<div class="listing_title"><a href="listings_single.html">Villa in Milano</a></div>
 								<div class="listing_text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
 								<div class="rooms">
 
@@ -639,6 +698,7 @@
 			</div>
 		</div>
 	</div>
+
 
 	<!-- Newsletter -->
 
