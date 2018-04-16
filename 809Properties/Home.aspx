@@ -59,7 +59,7 @@
 			
 			<!-- Home Slider Nav -->
 			<div class="home_slider_nav_left home_slider_nav d-flex flex-row align-items-center justify-content-end">
-				<img src="images/nav_left.png" alt="">
+				<img src="images/nav_left.png" alt=""/>
 			</div>
 
 		</div>
@@ -171,9 +171,9 @@
 						<div class="contact_title">say hello</div>
 						<div class="estate_contact_form_container">
 							<form id="estate_contact_form" class="estate_contact_form" action="post">
-								<input id="estate_contact_form_name" class="estate_input_field estate_contact_form_name" type="text" placeholder="Name" required="required" data-error="Name is required.">
-								<input id="estate_contact_form_email" class="estate_input_field estate_contact_form_email" type="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
-								<input id="estate_contact_form_subject" class="estate_input_field estate_contact_form_subject" type="email" placeholder="Subject" required="required" data-error="Subject is required.">
+								<input id="estate_contact_form_name" class="estate_input_field estate_contact_form_name" type="text" placeholder="Name" required="required" data-error="Name is required."/>
+								<input id="estate_contact_form_email" class="estate_input_field estate_contact_form_email" type="email" placeholder="E-mail" required="required" data-error="Valid email is required."/>
+								<input id="estate_contact_form_subject" class="estate_input_field estate_contact_form_subject" type="email" placeholder="Subject" required="required" data-error="Subject is required."/>
 								<textarea id="estate_contact_form_message" class="estate_text_field estate_contact_form_message" name="message" placeholder="Message" required="required" data-error="Please, write us a message."></textarea>
 								<button id="estate_contact_send_btn" type="submit" class="estate_contact_send_btn trans_200" value="Submit">send</button>
 							</form>
@@ -185,19 +185,19 @@
 					<div class="contact_title">contact info</div>
 					<ul class="contact_info_list estate_contact">
 						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""></div></div>
+							<div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""/></div></div>
 							<div class="contact_info_text">4127 Raoul Wallenber 45b-c Gibraltar</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""></div></div>
+							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""/></div></div>
 							<div class="contact_info_text">2556-808-8613</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/message.svg" alt=""></div></div>
+							<div><div class="contact_info_icon"><img src="images/message.svg" alt=""/></div></div>
 							<div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">contactme@gmail.com</a></div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/planet-earth.svg" alt=""></div></div>
+							<div><div class="contact_info_icon"><img src="images/planet-earth.svg" alt=""/></div></div>
 							<div class="contact_info_text"><a href="https://colorlib.com">www.colorlib.com</a></div>
 						</li>
 					</ul>
@@ -233,7 +233,7 @@
 					<div class="featured_card_container">
 						<div class="card featured_card trans_300">
 							<div class="featured_panel">featured</div>
-							<img class="card-img-top" src="images/featured_1.jpg" alt="https://unsplash.com/@breather">
+							<img class="card-img-top" src="images/featured_1.jpg" alt="https://unsplash.com/@breather"/>
 							<div class="card-body">
 								<div class="card-title"><a href="listings_single.html">House in West California</a></div>
 								<div class="card-text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
@@ -285,7 +285,7 @@
 						</div>
 
 						<div class="featured_card_box d-flex flex-row align-items-center trans_300">
-							<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
+							<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g"/>
 							<div class="featured_card_box_content">
 								<div class="featured_card_price_title">For Sale</div>
 								<div class="featured_card_price">$540,000</div>
@@ -301,7 +301,7 @@
 					<div class="featured_card_container">
 						<div class="card featured_card trans_300">
 							<div class="featured_panel">featured</div>
-							<img class="card-img-top" src="images/featured_2.jpg" alt="https://unsplash.com/@astute">
+							<img class="card-img-top" src="images/featured_2.jpg" alt="https://unsplash.com/@astute"/>
 							<div class="card-body">
 								<div class="card-title"><a href="listings_single.html">House in West California</a></div>
 								<div class="card-text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
@@ -371,7 +371,7 @@
 					<div class="featured_card_container">
 						<div class="card featured_card trans_300">
 							<div class="featured_panel">featured</div>
-							<img class="card-img-top" src="images/featured_3.jpg" alt="https://unsplash.com/@marcusneto">
+							<img class="card-img-top" src="images/featured_3.jpg" alt="https://unsplash.com/@marcusneto"/>
 							<div class="card-body">
 								<div class="card-title"><a href="listings_single.html">House in West California</a></div>
 								<div class="card-text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
@@ -380,7 +380,7 @@
 									<div class="room">
 										<span class="room_title">Bedrooms</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/bedroom.png" alt=""></div>
+											<div class="room_image"><img src="images/bedroom.png" alt=""/></div>
 											<span class="room_number">4</span>
 										</div>
 									</div>
@@ -388,7 +388,7 @@
 									<div class="room">
 										<span class="room_title">Bathrooms</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/shower.png" alt=""></div>
+											<div class="room_image"><img src="images/shower.png" alt=""/></div>
 											<span class="room_number">3</span>
 										</div>
 									</div>
@@ -396,7 +396,7 @@
 									<div class="room">
 										<span class="room_title">Area</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""></div>
+											<div class="room_image"><img src="images/area.png" alt=""/></div>
 											<span class="room_number">12 Sq Ft</span>
 										</div>
 									</div>
@@ -404,7 +404,7 @@
 									<div class="room">
 										<span class="room_title">Patio</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/patio.png" alt=""></div>
+											<div class="room_image"><img src="images/patio.png" alt=""/></div>
 											<span class="room_number">1</span>
 										</div>
 									</div>
@@ -412,7 +412,7 @@
 									<div class="room">
 										<span class="room_title">Garage</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/garage.png" alt=""></div>
+											<div class="room_image"><img src="images/garage.png" alt=""/></div>
 											<span class="room_number">2</span>
 										</div>
 									</div>
@@ -425,7 +425,7 @@
 						</div>
 
 						<div class="featured_card_box d-flex flex-row align-items-center trans_300">
-							<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
+							<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g"/>
 							<div class="featured_card_box_content">
 								<div class="featured_card_price_title">For Sale</div>
 								<div class="featured_card_price">$540,000</div>
@@ -484,8 +484,8 @@
 					<div class="footer_col_title">say hello</div>
 					<div class="footer_contact_form_container">
 						<form id="footer_contact_form" class="footer_contact_form" action="post">
-							<input id="contact_form_name" class="input_field contact_form_name" type="text" placeholder="Name" required="required" data-error="Name is required.">
-							<input id="contact_form_email" class="input_field contact_form_email" type="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
+							<input id="contact_form_name" class="input_field contact_form_name" type="text" placeholder="Name" required="required" data-error="Name is required."/>
+							<input id="contact_form_email" class="input_field contact_form_email" type="email" placeholder="E-mail" required="required" data-error="Valid email is required."/>
 							<textarea id="contact_form_message" class="text_field contact_form_message" name="message" placeholder="Message" required="required" data-error="Please, write us a message."></textarea>
 							<button id="contact_send_btn" type="submit" class="contact_send_btn trans_200" value="Submit">send</button>
 						</form>
@@ -498,19 +498,19 @@
 					<div class="footer_col_title">contact info</div>
 					<ul class="contact_info_list">
 						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""></div></div>
+							<div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""/></div></div>
 							<div class="contact_info_text">4127 Raoul Wallenber 45b-c Gibraltar</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""></div></div>
+							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""/></div></div>
 							<div class="contact_info_text">2556-808-8613</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/message.svg" alt=""></div></div>
+							<div><div class="contact_info_icon"><img src="images/message.svg" alt=""/></div></div>
 							<div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">contactme@gmail.com</a></div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/planet-earth.svg" alt=""></div></div>
+							<div><div class="contact_info_icon"><img src="images/planet-earth.svg" alt=""/></div></div>
 							<div class="contact_info_text"><a href="https://colorlib.com">www.colorlib.com</a></div>
 						</li>
 					</ul>
@@ -527,6 +527,7 @@
 	</div>
 
 </div>
+    </div>
 
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="styles/bootstrap4/popper.js"></script>

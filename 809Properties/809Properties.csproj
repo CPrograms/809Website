@@ -193,7 +193,6 @@
     <Content Include="Listings.aspx" />
     <Content Include="listings_single.html" />
     <Content Include="packages.config" />
-    <Content Include="ApplicationInsights.config" />
     <Content Include="Site.Master" />
     <Content Include="scripts\esm\popper-utils.js" />
     <Content Include="scripts\esm\popper-utils.min.js" />
