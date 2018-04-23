@@ -233,17 +233,17 @@
 					<div class="featured_card_container">
 						<div class="card featured_card trans_300">
 							<div class="featured_panel">featured</div>
-							<img class="card-img-top" src="images/featured_1.jpg" alt="https://unsplash.com/@breather">
+							<img class="card-img-top" src="images/809front/1108SLewis-Front.jpg" alt="https://unsplash.com/@breather"/>
 							<div class="card-body">
-								<div class="card-title"><a href="listings_single.html">House in West California</a></div>
-								<div class="card-text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
+								<div class="card-title"><a href="listings_single.html">1108 S Lewis</a></div>
+								<div class="card-text">No garage, one living room, no dining room, fenced yard</div>
 								<div class="rooms">
 
 									<div class="room">
 										<span class="room_title">Bedrooms</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/bedroom.png" alt=""/></div>
-											<span class="room_number">4</span>
+											<span class="room_number">3</span>
 										</div>
 									</div>
 
@@ -251,23 +251,79 @@
 										<span class="room_title">Bathrooms</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/shower.png" alt=""/></div>
-											<span class="room_number">3</span>
+											<span class="room_number">2</span>
 										</div>
 									</div>
 
-									<div class="room">
-										<span class="room_title">Area</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""/></div>
-											<span class="room_number">7100 Sq Ft</span>
-										</div>
-									</div>
+							
 
 									<div class="room">
 										<span class="room_title">Patio</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/patio.png" alt=""/></div>
-											<span class="room_number">1</span>
+											<span class="room_number">0</span>
+										</div>
+									</div>
+
+									<div class="room">
+										<span class="room_title">Garage</span>
+										<div class="room_content">
+											<div class="room_image"><img src="images/garage.png" alt=""/></div>
+											<span class="room_number">0</span>
+										</div>
+									</div>
+
+								</div>
+
+							</div>
+						</div>
+
+						<div class="featured_card_box d-flex flex-row align-items-center trans_300">
+							<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
+							<div class="featured_card_box_content">
+								<div class="featured_card_price_title">For Lease</div>
+								<div class="featured_card_price">$1,155 Per Month</div>
+							</div>
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="col-lg-4 featured_card_col">
+
+					<div class="featured_card_container">
+						<div class="card featured_card trans_300">
+							<div class="featured_panel">featured</div>
+							<img class="card-img-top" src="images/809front/2024NHusband-Front.jpg" alt="https://unsplash.com/@astute">
+							<div class="card-body">
+								<div class="card-title"><a href="listings_single.html">2024 N Husband</a></div>
+								<div class="card-text">2 living areas, dining room, 2 car garage, no fenced yard, sits on 2 acres.</div>
+								<div class="rooms">
+
+									<div class="room">
+										<span class="room_title">Bedrooms</span>
+										<div class="room_content">
+											<div class="room_image"><img src="images/bedroom.png" alt=""/></div>
+											<span class="room_number">6</span>
+										</div>
+									</div>
+
+									<div class="room">
+										<span class="room_title">Bathroom</span>
+										<div class="room_content">
+											<div class="room_image"><img src="images/shower.png" alt=""/></div>
+											<span class="room_number">3</span>
+										</div>
+									</div>
+
+									
+
+									<div class="room">
+										<span class="room_title">Patio</span>
+										<div class="room_content">
+											<div class="room_image"><img src="images/patio.png" alt=""/></div>
+											<span class="room_number">0</span>
 										</div>
 									</div>
 
@@ -281,74 +337,6 @@
 
 								</div>
 
-							</div>
-						</div>
-
-						<div class="featured_card_box d-flex flex-row align-items-center trans_300">
-							<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
-							<div class="featured_card_box_content">
-								<div class="featured_card_price_title">For Sale</div>
-								<div class="featured_card_price">$540,000</div>
-							</div>
-						</div>
-
-					</div>
-
-				</div>
-
-				<div class="col-lg-4 featured_card_col">
-
-					<div class="featured_card_container">
-						<div class="card featured_card trans_300">
-							<div class="featured_panel">featured</div>
-							<img class="card-img-top" src="images/featured_2.jpg" alt="https://unsplash.com/@astute">
-							<div class="card-body">
-								<div class="card-title"><a href="listings_single.html">House in West California</a></div>
-								<div class="card-text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
-								<div class="rooms">
-
-									<div class="room">
-										<span class="room_title">Bedrooms</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/bedroom.png" alt=""/></div>
-											<span class="room_number">4</span>
-										</div>
-									</div>
-
-									<div class="room">
-										<span class="room_title">B</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/shower.png" alt=""/></div>
-											<span class="room_number">3</span>
-										</div>
-									</div>
-
-									<div class="room">
-										<span class="room_title">Area</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""/></div>
-											<span class="room_number">7</span>
-										</div>
-									</div>
-
-									<div class="room">
-										<span class="room_title">P</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/patio.png" alt=""/></div>
-											<span class="room_number">1</span>
-										</div>
-									</div>
-
-									<div class="room">
-										<span class="room_title">Garage</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/garage.png" alt=""/></div>
-											<span class="room_number"></span>
-										</div>
-									</div>
-
-								</div>
-
 								
 
 							</div>
@@ -357,8 +345,8 @@
 						<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 							<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g"/>
 							<div class="featured_card_box_content">
-								<div class="featured_card_price_title"></div>
-								<div class="featured_card_price"></div>
+								<div class="featured_card_price_title">For Lease</div>
+								<div class="featured_card_price">$ 2,250 Per Month</div>
 							</div>
 						</div>
 
@@ -371,10 +359,10 @@
 					<div class="featured_card_container">
 						<div class="card featured_card trans_300">
 							<div class="featured_panel">featured</div>
-							<img class="card-img-top" src="images/featured_3.jpg" alt="https://unsplash.com/@marcusneto">
+							<img class="card-img-top" src="images/809front/2112NHusband-Front.jpg" alt="https://unsplash.com/@marcusneto">
 							<div class="card-body">
-								<div class="card-title"><a href="listings_single.html">House in West California</a></div>
-								<div class="card-text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
+								<div class="card-title"><a href="listings_single.html">2112 N Husband</a></div>
+								<div class="card-text">Dining area, one large living area, 2 car garage, fenced yard.</div>
 								<div class="rooms">
 
 									<div class="room">
@@ -393,19 +381,13 @@
 										</div>
 									</div>
 
-									<div class="room">
-										<span class="room_title">Area</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""></div>
-											<span class="room_number">12 Sq Ft</span>
-										</div>
-									</div>
+				
 
 									<div class="room">
 										<span class="room_title">Patio</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/patio.png" alt=""></div>
-											<span class="room_number">1</span>
+											<span class="room_number">0</span>
 										</div>
 									</div>
 
@@ -427,8 +409,8 @@
 						<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 							<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
 							<div class="featured_card_box_content">
-								<div class="featured_card_price_title">For Sale</div>
-								<div class="featured_card_price">$540,000</div>
+								<div class="featured_card_price_title">For Lease</div>
+								<div class="featured_card_price">$1,640 Per Month</div>
 							</div>
 						</div>
 

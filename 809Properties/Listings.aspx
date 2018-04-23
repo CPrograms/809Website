@@ -338,48 +338,40 @@
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
 									<div class="featured_card_box_content">
-										<div class="featured_card_price_title trans_300">For Sale</div>
-										<div class="featured_card_price trans_300">$540,000</div>
+										<div class="featured_card_price_title trans_300">For Lease</div>
+										<div class="featured_card_price trans_300">$1155 Per Month</div>
 									</div>
 								</div>
 							</div>
 							<div class="listing_content">
-								<div class="listing_title"><a href="listings_single.html">House in West California</a></div>
-								<div class="listing_text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
+								<div class="listing_title"><a href="listings_single.html">1108 S Lewis</a></div>
+								<div class="listing_text">No garage, one living room, no dining room, fenced yard</div>
 								<div class="rooms">
 
 									<div class="room">
 										<span class="room_title">Bedrooms</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/bedroom.png" alt=""></div>
-											<span class="room_number">4</span>
+											<span class="room_number">3</span>
 										</div>
 									</div>
 
 									<div class="room">
 										<span class="room_title">Bathrooms</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/shower.png" alt=""></div>
-											<span class="room_number">3</span>
-										</div>
-									</div>
-
-									<div class="room">
-										<span class="room_title">Area</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""></div>
-											<span class="room_number">7100 Sq Ft</span>
+											<div class="room_image"><img src="images/shower.png" alt=""/></div>
+											<span class="room_number">2</span>
 										</div>
 									</div>
 
 								</div>
 
 								<div class="room_tags">
-									<span class="room_tag"><a href="#">Hottub</a></span>
-									<span class="room_tag"><a href="#">Swimming Pool</a></span>
-									<span class="room_tag"><a href="#">Garden</a></span>
-									<span class="room_tag"><a href="#">Patio</a></span>
-									<span class="room_tag"><a href="#">Hard Wood Floor</a></span>
+									<span class="room_tag"><a href="#">Washer&Dryer</a></span>
+									<span class="room_tag"><a href="#">Refrigerator</a></span>
+									<span class="room_tag"><a href="#">Range</a></span>
+									<span class="room_tag"><a href="#">Microwave</a></span>
+									<span class="room_tag"><a href="#">Dishwacher</a></span>
 								</div>
 							</div>
 						</div>
@@ -397,21 +389,21 @@
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g"/>
 									<div class="featured_card_box_content">
-										<div class="featured_card_price_title trans_300">For Sale</div>
-										<div class="featured_card_price trans_300">$540,000</div>
+										<div class="featured_card_price_title trans_300">For Lease</div>
+										<div class="featured_card_price trans_300">2,250 Per Month</div>
 									</div>
 								</div>
 							</div>
 							<div class="listing_content">
-								<div class="listing_title"><a href="listings_single.html">Villa in Milano</a></div>
-								<div class="listing_text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
+								<div class="listing_title"><a href="listings_single.html">2024 N Husband</a></div>
+								<div class="listing_text">2 living areas, dining room, 2 car garage, no fenced yard, sits on 2 acres.</div>
 								<div class="rooms">
 
 									<div class="room">
 										<span class="room_title">Bedrooms</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/bedroom.png" alt=""></div>
-											<span class="room_number">4</span>
+											<span class="room_number">6</span>
 										</div>
 									</div>
 
@@ -423,22 +415,16 @@
 										</div>
 									</div>
 
-									<div class="room">
-										<span class="room_title">Area</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""></div>
-											<span class="room_number">7100 Sq Ft</span>
-										</div>
-									</div>
+				
 
 								</div>
 
 								<div class="room_tags">
-									<span class="room_tag"><a href="#">Hottub</a></span>
-									<span class="room_tag"><a href="#">Swimming Pool</a></span>
-									<span class="room_tag"><a href="#">Garden</a></span>
-									<span class="room_tag"><a href="#">Patio</a></span>
-									<span class="room_tag"><a href="#">Hard Wood Floor</a></span>
+									<span class="room_tag"><a href="#">Washer&Dryer</a></span>
+									<span class="room_tag"><a href="#">Refrigerator</a></span>
+									<span class="room_tag"><a href="#">Range</a></span>
+									<span class="room_tag"><a href="#">Microwave</a></span>
+									<span class="room_tag"><a href="#">Dishwacher</a></span>
 								</div>
 							</div>
 						</div>
@@ -457,14 +443,14 @@
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
 									<div class="featured_card_box_content">
-										<div class="featured_card_price_title trans_300">For Sale</div>
-										<div class="featured_card_price trans_300">$540,000</div>
+										<div class="featured_card_price_title trans_300">For Lease</div>
+										<div class="featured_card_price trans_300">$1,640 Per Month</div>
 									</div>
 								</div>
 							</div>
 							<div class="listing_content">
-								<div class="listing_title"><a href="listings_single.html">Villa in West Barcelona</a></div>
-								<div class="listing_text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
+								<div class="listing_title"><a href="listings_single.html">2112 N Husband</a></div>
+								<div class="listing_text">Dining area, one large living area, 2 car garage, fenced yard</div>
 								<div class="rooms">
 
 									<div class="room">
@@ -483,22 +469,16 @@
 										</div>
 									</div>
 
-									<div class="room">
-										<span class="room_title">Area</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""/></div>
-											<span class="room_number">7100 Sq Ft</span>
-										</div>
-									</div>
+								
 
 								</div>
 
 								<div class="room_tags">
-									<span class="room_tag"><a href="#">Hottub</a></span>
-									<span class="room_tag"><a href="#">Swimming Pool</a></span>
-									<span class="room_tag"><a href="#">Garden</a></span>
-									<span class="room_tag"><a href="#">Patio</a></span>
-									<span class="room_tag"><a href="#">Hard Wood Floor</a></span>
+									<span class="room_tag"><a href="#">Washer&Dryer</a></span>
+									<span class="room_tag"><a href="#">Refrigerator</a></span>
+									<span class="room_tag"><a href="#">Range</a></span>
+									<span class="room_tag"><a href="#">Microwave</a></span>
+									<span class="room_tag"><a href="#">Dishwacher</a></span>
 								</div>
 							</div>
 						</div>
@@ -516,14 +496,14 @@
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
 									<div class="featured_card_box_content">
-										<div class="featured_card_price_title trans_300">For Sale</div>
-										<div class="featured_card_price trans_300">$540,000</div>
+										<div class="featured_card_price_title trans_300">For Lease</div>
+										<div class="featured_card_price trans_300">$1,760 Per Month</div>
 									</div>
 								</div>
 							</div>
 							<div class="listing_content">
-								<div class="listing_title"><a href="listings_single.html">Villa in Milano</a></div>
-								<div class="listing_text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
+								<div class="listing_title"><a href="listings_single.html">424 S West</a></div>
+								<div class="listing_text">One living area, eating bar in kitchen, small back patio.</div>
 								<div class="rooms">
 
 									<div class="room">
@@ -538,26 +518,19 @@
 										<span class="room_title">Bathrooms</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/shower.png" alt=""></div>
-											<span class="room_number">3</span>
+											<span class="room_number">2</span>
 										</div>
 									</div>
 
-									<div class="room">
-										<span class="room_title">Area</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""></div>
-											<span class="room_number">7100 Sq Ft</span>
-										</div>
-									</div>
 
 								</div>
 
 								<div class="room_tags">
-									<span class="room_tag"><a href="#">Hottub</a></span>
-									<span class="room_tag"><a href="#">Swimming Pool</a></span>
-									<span class="room_tag"><a href="#">Garden</a></span>
-									<span class="room_tag"><a href="#">Patio</a></span>
-									<span class="room_tag"><a href="#">Hard Wood Floor</a></span>
+									<span class="room_tag"><a href="#">Washer&Dryer</a></span>
+									<span class="room_tag"><a href="#">Refrigerator</a></span>
+									<span class="room_tag"><a href="#">Range</a></span>
+									<span class="room_tag"><a href="#">Microwave</a></span>
+									<span class="room_tag"><a href="#">Dishwacher</a></span>
 								</div>
 							</div>
 						</div>
@@ -575,14 +548,14 @@
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
 									<div class="featured_card_box_content">
-										<div class="featured_card_price_title trans_300">For Sale</div>
-										<div class="featured_card_price trans_300">$540,000</div>
+										<div class="featured_card_price_title trans_300">For Leaser</div>
+										<div class="featured_card_price trans_300">$1,760</div>
 									</div>
 								</div>
 							</div>
 							<div class="listing_content">
-								<div class="listing_title"><a href="listings_single.html">Villa in West Barcelona</a></div>
-								<div class="listing_text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
+								<div class="listing_title"><a href="listings_single.html">426 S West</a></div>
+								<div class="listing_text">One living area, eating bar in kitchen, small back patio</div>
 								<div class="rooms">
 
 									<div class="room">
@@ -597,26 +570,20 @@
 										<span class="room_title">Bathrooms</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/shower.png" alt=""></div>
-											<span class="room_number">3</span>
+											<span class="room_number">2</span>
 										</div>
 									</div>
 
-									<div class="room">
-										<span class="room_title">Area</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""></div>
-											<span class="room_number">7100 Sq Ft</span>
-										</div>
-									</div>
+								
 
 								</div>
 
 								<div class="room_tags">
-									<span class="room_tag"><a href="#">Hottub</a></span>
-									<span class="room_tag"><a href="#">Swimming Pool</a></span>
-									<span class="room_tag"><a href="#">Garden</a></span>
-									<span class="room_tag"><a href="#">Patio</a></span>
-									<span class="room_tag"><a href="#">Hard Wood Floor</a></span>
+									<span class="room_tag"><a href="#">Washer&Dryer</a></span>
+									<span class="room_tag"><a href="#">Refrigerator</a></span>
+									<span class="room_tag"><a href="#">Range</a></span>
+									<span class="room_tag"><a href="#">Microwave</a></span>
+									<span class="room_tag"><a href="#">Dishwacher</a></span>
 								</div>
 							</div>
 						</div>
@@ -634,21 +601,21 @@
 								<div class="featured_card_box d-flex flex-row align-items-center trans_300">
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
 									<div class="featured_card_box_content">
-										<div class="featured_card_price_title trans_300">For Sale</div>
-										<div class="featured_card_price trans_300">$540,000</div>
+										<div class="featured_card_price_title trans_300">For Lease</div>
+										<div class="featured_card_price trans_300">$2,050-2,310 Per Month</div>
 									</div>
 								</div>
 							</div>
 							<div class="listing_content">
-								<div class="listing_title"><a href="listings_single.html">Villa in Milano</a></div>
-								<div class="listing_text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.</div>
+								<div class="listing_title"><a href="listings_single.html">2222 N Glenwood</a></div>
+								<div class="listing_text">1 optional/bonus bedroom, large master, fenced back yard, two car garage, dining area.</div>
 								<div class="rooms">
 
 									<div class="room">
 										<span class="room_title">Bedrooms</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/bedroom.png" alt=""></div>
-											<span class="room_number">4</span>
+											<span class="room_number">5 or 6</span>
 										</div>
 									</div>
 
@@ -656,26 +623,20 @@
 										<span class="room_title">Bathrooms</span>
 										<div class="room_content">
 											<div class="room_image"><img src="images/shower.png" alt=""></div>
-											<span class="room_number">3</span>
+											<span class="room_number">3 full and 1 half</span>
 										</div>
 									</div>
 
-									<div class="room">
-										<span class="room_title">Area</span>
-										<div class="room_content">
-											<div class="room_image"><img src="images/area.png" alt=""></div>
-											<span class="room_number">7100 Sq Ft</span>
-										</div>
-									</div>
+									
 
 								</div>
 
 								<div class="room_tags">
-									<span class="room_tag"><a href="#">Hottub</a></span>
-									<span class="room_tag"><a href="#">Swimming Pool</a></span>
-									<span class="room_tag"><a href="#">Garden</a></span>
-									<span class="room_tag"><a href="#">Patio</a></span>
-									<span class="room_tag"><a href="#">Hard Wood Floor</a></span>
+									<span class="room_tag"><a href="#">Washer&Dryer</a></span>
+									<span class="room_tag"><a href="#">Refrigerator</a></span>
+									<span class="room_tag"><a href="#">Range</a></span>
+									<span class="room_tag"><a href="#">Microwave</a></span>
+									<span class="room_tag"><a href="#">Dishwacher</a></span>
 								</div>
 							</div>
 						</div>
@@ -685,17 +646,6 @@
 
 			</div>
 
-			<div class="row">
-				<div class="col clearfix">
-					<div class="listings_nav">
-						<ul>
-							<li class="listings_nav_item active"><a href="#">01.</a></li>
-							<li class="listings_nav_item"><a href="#">02.</a></li>
-							<li class="listings_nav_item"><a href="#">03.</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
 		</div>
 	</div>
 

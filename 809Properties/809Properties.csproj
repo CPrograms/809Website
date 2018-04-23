@@ -124,15 +124,6 @@
     <Content Include="Images\dropdown_arrow.png" />
     <Content Include="Images\elements.jpg" />
     <Content Include="Images\favorite.svg" />
-    <Content Include="Images\featured_1.jpg" />
-    <Content Include="Images\featured_2.jpg" />
-    <Content Include="Images\featured_3.jpg" />
-    <Content Include="Images\gallery_1.jpg" />
-    <Content Include="Images\gallery_2.jpg" />
-    <Content Include="Images\gallery_3.jpg" />
-    <Content Include="Images\gallery_4.jpg" />
-    <Content Include="Images\gallery_5.jpg" />
-    <Content Include="Images\gallery_6.jpg" />
     <Content Include="Images\garage.png" />
     <Content Include="Images\garage.svg" />
     <Content Include="Images\home_background.jpg" />
