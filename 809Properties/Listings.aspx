@@ -549,7 +549,7 @@
 									<img src="images/tag.svg" alt="https://www.flaticon.com/authors/lucy-g">
 									<div class="featured_card_box_content">
 										<div class="featured_card_price_title trans_300">For Leaser</div>
-										<div class="featured_card_price trans_300">$1,760</div>
+										<div class="featured_card_price trans_300">$1,760 Per Month</div>
 									</div>
 								</div>
 							</div>

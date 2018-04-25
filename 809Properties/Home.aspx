@@ -35,7 +35,7 @@
 				<!-- Home Slider Item -->
 				<div class="owl-item home_slider_item">
 					<!-- Image by https://unsplash.com/@aahubs -->
-					<div class="home_slider_background" style="background-image:url(images/home_slider_bcg.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(images/Stillwater.jpg);height:600px"></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
 							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut">find your home</h1>
@@ -48,7 +48,7 @@
 				<!-- Home Slider Item -->
 				<div class="owl-item home_slider_item">
 					<!-- Image by https://unsplash.com/@aahubs -->
-					<div class="home_slider_background" style="background-image:url(images/home_slider_bcg.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(images/OSU.jpg); height:600px"></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
 							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut">find your home</h1>
@@ -100,7 +100,7 @@
 						<!-- Phone Home -->
 
 						<div class="phone_home text-center">
-							<span>+0080 234 567 84441</span>
+							<span>(405)880-7354</span>
 						</div>
 						
 						<!-- Hamburger -->
@@ -186,7 +186,7 @@
 					<ul class="contact_info_list estate_contact">
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""></div></div>
-							<div class="contact_info_text">4127 Raoul Wallenber 45b-c Gibraltar</div>
+							<div class="contact_info_text">114W, Hall of Fame Avenue, Stillwater OK 74075</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""></div></div>
@@ -509,6 +509,7 @@
 	</div>
 
 </div>
+    </div>
 
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="styles/bootstrap4/popper.js"></script>
