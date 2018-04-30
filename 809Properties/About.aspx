@@ -75,7 +75,7 @@
 						<!-- Phone Home -->
 
 						<div class="phone_home text-center">
-							<span>+0080 234 567 84441</span>
+							<span>(405)880-7354</span>
 						</div>
 						
 						<!-- Hamburger -->
@@ -152,8 +152,8 @@
 			<div class="row">
 				<div class="col-lg-7 order-lg-1 order-2">
 					<h2 class="intro_title">The Estate Promise</h2>
-					<div class="intro_subtitle">Sed vestibulum lectus ut leo molestie, id suscipit magna</div>
-					<p class="intro_text">Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus eros, placerat quis fermentum et, viverra sit amet lacus. Nam gravida semper augue id sagittis. Cras nec arcu quis velit tempor porttitor sit amet vel risus. Sed vestibulum lectus ut leo molestie, id suscipit magna mattis. Vivamus nisl ligula, varius congue dui sit amet, vestibulum sollicitudin mauris. Vestibulum quis ligula in nunc varius maximus ac et nunc. Nulla sed magna turpis.</p>
+					<div class="intro_subtitle">We provide liquality properties with low price</div>
+					<p class="intro_text">Congratulations on taking an important and key step in your home experience. Using this website, you will be able to view homes for lease in the Stillwater and surrounding areas. We are full time real estate agents who are qualified to assist you in buying or leasing your home. We have a keen sense of the local market, know property values, appreciation of the market, and how to gain the best exposure for your property.</p>
 					<div class="button intro_button trans_200"><a class="trans_200" href="#">read more</a></div>
 				</div>
 				<div class="col-lg-5 order-lg-2 order-1">
@@ -294,7 +294,7 @@
 						</ul>
 					</div>
 					<div class="footer_about">
-						<p>Lorem ipsum dolor sit amet, cons ectetur  quis ferme adipiscing elit. Suspen dis se tellus eros, placerat quis ferme ntum et, viverra sit amet lacus. Nam gravida  quis ferme semper augue.</p>
+						<p>Congratulations on taking an important and key step in your home experience. Using this website, you will be able to view homes for lease in the Stillwater and surrounding areas. We are full time real estate agents who are qualified to assist you in buying or leasing your home. We have a keen sense of the local market, know property values, appreciation of the market, and how to gain the best exposure for your property.</p>
 					</div>
 				</div>
 				
@@ -318,19 +318,19 @@
 					<ul class="contact_info_list">
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""></div></div>
-							<div class="contact_info_text">4127 Raoul Wallenber 45b-c Gibraltar</div>
+							<div class="contact_info_text">114W, Hall of Fame Avenue, Stillwater OK 74075</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""></div></div>
-							<div class="contact_info_text">2556-808-8613</div>
+							<div class="contact_info_text">(405)880-7354</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/message.svg" alt=""></div></div>
-							<div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">contactme@gmail.com</a></div>
+							<div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">cherylcmartin@remax.net</a></div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/planet-earth.svg" alt=""></div></div>
-							<div class="contact_info_text"><a href="https://colorlib.com">www.colorlib.com</a></div>
+							<div class="contact_info_text"><a href="https://colorlib.com">www.StillwaterHome.com</a></div>
 						</li>
 					</ul>
 				</div>

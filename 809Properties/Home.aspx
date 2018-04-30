@@ -16,9 +16,7 @@
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css"/>
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css"/>
 
-<link rel="stylesheet" type="text/css" href="styles/responsive.css"/>
-<link rel="stylesheet" type="text/css" href="styles/contact_styles.css"/>
-<link rel="stylesheet" type="text/css" href="styles/contact_responsive.css"/>
+
 </head>
 
 <body runat="server">
@@ -35,7 +33,7 @@
 				<!-- Home Slider Item -->
 				<div class="owl-item home_slider_item">
 					<!-- Image by https://unsplash.com/@aahubs -->
-					<div class="home_slider_background" style="background-image:url(images/Stillwater.jpg);height:600px"></div>
+					<div class="home_slider_background" style="background-image:url(images/Stillwater.jpg);"></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
 							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut">find your home</h1>
@@ -48,7 +46,7 @@
 				<!-- Home Slider Item -->
 				<div class="owl-item home_slider_item">
 					<!-- Image by https://unsplash.com/@aahubs -->
-					<div class="home_slider_background" style="background-image:url(images/OSU.jpg); height:600px"></div>
+					<div class="home_slider_background" style="background-image:url(images/OSU.jpg); "></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
 							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut">find your home</h1>
@@ -93,7 +91,7 @@
 								<li class="main_nav_item"><a href="#">home</a></li>
 								<li class="main_nav_item"><a href="about.aspx">about us</a></li>
 								<li class="main_nav_item"><a href="listings.aspx">listings</a></li>
-								<li class="main_nav_item"><a href="contact.aspx">contact</a></li>
+								
 							</ul>
 						</nav>
 						
@@ -148,71 +146,12 @@
 					</div>
 				</li>
 			
-				<li class="menu_item">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<a href="contact.html">contact</a>
-							</div>
-						</div>
-					</div>
-				</li>
+				
 			</ul>
 		</div>
 
 	</header>
-	<!--info-->
-    <div class="contact">
-		<div class="container">
-			<div class="row">
-				
-				<div class="col-lg-6 contact_col">
-					<div class="estate_contact_form">
-						<div class="contact_title">say hello</div>
-						<div class="estate_contact_form_container">
-							<form id="estate_contact_form" class="estate_contact_form" action="post">
-								<input id="estate_contact_form_name" class="estate_input_field estate_contact_form_name" type="text" placeholder="Name" required="required" data-error="Name is required.">
-								<input id="estate_contact_form_email" class="estate_input_field estate_contact_form_email" type="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
-								<input id="estate_contact_form_subject" class="estate_input_field estate_contact_form_subject" type="email" placeholder="Subject" required="required" data-error="Subject is required.">
-								<textarea id="estate_contact_form_message" class="estate_text_field estate_contact_form_message" name="message" placeholder="Message" required="required" data-error="Please, write us a message."></textarea>
-								<button id="estate_contact_send_btn" type="submit" class="estate_contact_send_btn trans_200" value="Submit">send</button>
-							</form>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-3 contact_col">
-					<div class="contact_title">contact info</div>
-					<ul class="contact_info_list estate_contact">
-						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""></div></div>
-							<div class="contact_info_text">114W, Hall of Fame Avenue, Stillwater OK 74075</div>
-						</li>
-						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""></div></div>
-							<div class="contact_info_text">2556-808-8613</div>
-						</li>
-						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/message.svg" alt=""></div></div>
-							<div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">contactme@gmail.com</a></div>
-						</li>
-						<li class="contact_info_item d-flex flex-row">
-							<div><div class="contact_info_icon"><img src="images/planet-earth.svg" alt=""></div></div>
-							<div class="contact_info_text"><a href="https://colorlib.com">www.colorlib.com</a></div>
-						</li>
-					</ul>
-					<div class="estate_social">
-						<ul class="estate_social_list">
-					<li class="footer_social_item"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-							<li class="footer_social_item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-							<li class="footer_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-
-		</div>
-
+	
 
 	<!-- Featured Properties -->
 
@@ -456,7 +395,7 @@
 						</ul>
 					</div>
 					<div class="footer_about">
-						<p>Lorem ipsum dolor sit amet, cons ectetur  quis ferme adipiscing elit. Suspen dis se tellus eros, placerat quis ferme ntum et, viverra sit amet lacus. Nam gravida  quis ferme semper augue.</p>
+						<p>Congratulations on taking an important and key step in your home experience. Using this website, you will be able to view homes for lease in the Stillwater and surrounding areas. We are full time real estate agents who are qualified to assist you in buying or leasing your home. We have a keen sense of the local market, know property values, appreciation of the market, and how to gain the best exposure for your property.</p>
 					</div>
 				</div>
 				
@@ -509,7 +448,7 @@
 	</div>
 
 </div>
-    </div>
+    
 
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="styles/bootstrap4/popper.js"></script>

@@ -97,9 +97,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <Content Include="Contact.aspx" />
-    <Content Include="ContactTest.aspx" />
-    <Content Include="Elements.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="Images\809front\1108SLewis-Front.jpg" />
     <Content Include="Images\809front\2024NHusband-Front.jpg" />
@@ -221,27 +218,6 @@
     </Compile>
     <Compile Include="About.aspx.designer.cs">
       <DependentUpon>About.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Contact.aspx.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Contact.aspx.designer.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ContactTest.aspx.cs">
-      <DependentUpon>ContactTest.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ContactTest.aspx.designer.cs">
-      <DependentUpon>ContactTest.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Elements.aspx.cs">
-      <DependentUpon>Elements.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Elements.aspx.designer.cs">
-      <DependentUpon>Elements.aspx</DependentUpon>
     </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>

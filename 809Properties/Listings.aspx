@@ -51,14 +51,14 @@
 								<li class="main_nav_item"><a href="Home.aspx">home</a></li>
 								<li class="main_nav_item"><a href="about.aspx">about us</a></li>
 								<li class="main_nav_item"><a href="#">listings</a></li>
-								<li class="main_nav_item"><a href="Contact.aspx">contact</a></li>
+								
 							</ul>
 						</nav>
 						
 						<!-- Phone Home -->
 
 						<div class="phone_home text-center">
-							<span>+0080 234 567 84441</span>
+							<span>(405)880-7354</span>
 						</div>
 						
 						<!-- Hamburger -->
@@ -87,15 +87,7 @@
 						</div>
 					</div>
 				</li>
-				<li class="menu_item">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<a href="about.html">about us</a>
-							</div>
-						</div>
-					</div>
-				</li>
+				
 				<li class="menu_item">
 					<div class="container">
 						<div class="row">
@@ -716,7 +708,7 @@
 						</ul>
 					</div>
 					<div class="footer_about">
-						<p>Lorem ipsum dolor sit amet, cons ectetur  quis ferme adipiscing elit. Suspen dis se tellus eros, placerat quis ferme ntum et, viverra sit amet lacus. Nam gravida  quis ferme semper augue.</p>
+						<p>Congratulations on taking an important and key step in your home experience. Using this website, you will be able to view homes for lease in the Stillwater and surrounding areas. We are full time real estate agents who are qualified to assist you in buying or leasing your home. We have a keen sense of the local market, know property values, appreciation of the market, and how to gain the best exposure for your property.</p>
 					</div>
 				</div>
 				
@@ -745,15 +737,15 @@
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""></div></div>
-							<div class="contact_info_text">2556-808-8613</div>
+							<div class="contact_info_text">(405)880-7354</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/message.svg" alt=""></div></div>
-							<div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">contactme@gmail.com</a></div>
+							<div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">cherylcmartin@remax.net</a></div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/planet-earth.svg" alt=""></div></div>
-							<div class="contact_info_text"><a href="https://colorlib.com">www.colorlib.com</a></div>
+							<div class="contact_info_text"><a href="https://colorlib.com">www.StillwaterHome.com</a></div>
 						</li>
 					</ul>
 				</div>
