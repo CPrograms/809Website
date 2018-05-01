@@ -48,9 +48,9 @@
 
 						<nav class="main_nav">
 							<ul class="main_nav_list">
-								<li class="main_nav_item"><a href="Home.aspx" style="color:orangered">home</a></li>
-								<li class="main_nav_item"><a href="about.aspx" style="color:orangered">about us</a></li>
-								<li class="main_nav_item"><a href="#" style="color:orangered">listings</a></li>
+								<li class="main_nav_item"><a href="Home.aspx" style="color:orangered; font-size: 30px">home</a></li>
+								<li class="main_nav_item"><a href="about.aspx" style="color:orangered;font-size: 30px">about us</a></li>
+								<li class="main_nav_item"><a href="#" style="color:orangered;font-size: 30px">listings</a></li>
 								
 							</ul>
 						</nav>
@@ -725,7 +725,7 @@
 					<ul class="contact_info_list">
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""></div></div>
-							<div class="contact_info_text">4127 Raoul Wallenber 45b-c Gibraltar</div>
+							<div class="contact_info_text">114W, Hall of Fame Avenue, Stillwater OK 74075</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""></div></div>

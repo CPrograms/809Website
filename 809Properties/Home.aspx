@@ -15,7 +15,7 @@
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css"/>
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css"/>
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css"/>
-
+    <link rel="stylesheet" type="text/css" href="styles/responsive.css"/>
 
 </head>
 
@@ -57,7 +57,7 @@
 			
 			<!-- Home Slider Nav -->
 			<div class="home_slider_nav_left home_slider_nav d-flex flex-row align-items-center justify-content-end">
-				<img src="images/nav_left.png" alt="">
+				<img src="images/nav_left.png" alt=""/>
 			</div>
 
 		</div>
@@ -66,11 +66,11 @@
 
 	<!-- Header -->
 
-	<header class="header trans_300">
+	<header class="header trans_300" >
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<div class="header_container d-flex flex-row align-items-center trans_300">
+					<div class="header_container d-flex flex-row align-items-center trans_300 " style="color:blue">
 
 						<!-- Logo -->
 
@@ -88,9 +88,9 @@
 
 						<nav class="main_nav">
 							<ul class="main_nav_list">
-								<li class="main_nav_item" ><a href="#" style="color:orangered">home</a></li>
-								<li class="main_nav_item"><a href="about.aspx" style="color:orangered">about us</a></li>
-								<li class="main_nav_item"><a href="listings.aspx" style="color:orangered">listings</a></li>
+								<li class="main_nav_item" ><a href="#" style="color:orangered ;font-size: 30px">home</a></li>
+								<li class="main_nav_item"><a href="about.aspx" style="color:orangered ;font-size: 30px">about us</a></li>
+								<li class="main_nav_item"><a href="listings.aspx" style="color:orangered;font-size: 30px">listings</a></li>
 								
 							</ul>
 						</nav>
@@ -420,19 +420,19 @@
 					<ul class="contact_info_list">
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""></div></div>
-							<div class="contact_info_text">4127 Raoul Wallenber 45b-c Gibraltar</div>
+							<div class="contact_info_text">114W, Hall of Fame Avenue, Stillwater OK 74075</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""></div></div>
-							<div class="contact_info_text">2556-808-8613</div>
+							<div class="contact_info_text">(405)880-7354</div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/message.svg" alt=""></div></div>
-							<div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">contactme@gmail.com</a></div>
+							<div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">cherylcmartin@remax.net</a></div>
 						</li>
 						<li class="contact_info_item d-flex flex-row">
 							<div><div class="contact_info_icon"><img src="images/planet-earth.svg" alt=""></div></div>
-							<div class="contact_info_text"><a href="https://colorlib.com">www.colorlib.com</a></div>
+							<div class="contact_info_text"><a href="https://colorlib.com">www.StillwaterHome.com</a></div>
 						</li>
 					</ul>
 				</div>

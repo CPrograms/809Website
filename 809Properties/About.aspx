@@ -49,9 +49,9 @@
 
 						<nav class="main_nav">
 							<ul class="main_nav_list">
-								<li class="main_nav_item" style=""><a href="Home.aspx" style="color:orangered">home</a></li>
-								<li class="main_nav_item"><a href="#" style="color:orangered">about us</a></li>
-								<li class="main_nav_item"><a href="Listings.aspx" style="color:orangered">listings</a></li>
+								<li class="main_nav_item" style=""><a href="Home.aspx" style="color:orangered;font-size: 30px">home</a></li>
+								<li class="main_nav_item"><a href="#" style="color:orangered;font-size: 30px">about us</a></li>
+								<li class="main_nav_item"><a href="Listings.aspx" style="color:orangered;font-size: 30px">listings</a></li>
 					
 							</ul>
 						</nav>
