@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="_809Properties.Home" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="_809Properties.Home" %> 
 
 <!DOCTYPE html>
 
@@ -33,10 +33,10 @@
 				<!-- Home Slider Item -->
 				<div class="owl-item home_slider_item">
 					<!-- Image by https://unsplash.com/@aahubs -->
-					<div class="home_slider_background" style="background-image:url(images/Stillwater.jpg);"></div>
+					<div class="home_slider_background" style="background-image:url(images/home_slider_bcg.jpg);"></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
-							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut">find your home</h1>
+							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orange">Welcome to 809 Properties</h1>
 						</div>
 					</div>
 
@@ -46,10 +46,10 @@
 				<!-- Home Slider Item -->
 				<div class="owl-item home_slider_item">
 					<!-- Image by https://unsplash.com/@aahubs -->
-					<div class="home_slider_background" style="background-image:url(images/OSU.jpg); "></div>
+					<div class="home_slider_background" style="background-image:url(images/home.jpg); "></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
-							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut">find your home</h1>
+							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orange">We Provide High quality Properties in Stillwater  </h1>
 						</div>
 					</div>
 				</div>
@@ -75,11 +75,11 @@
 						<!-- Logo -->
 
 						<div class="logo_container">
-							<a href="#">
+							<a href="home.aspx">
 								<div class="logo">
                                     
                                     <img src="Images/houselogo(1).jpg" alt="" style="height:100px; width:100px"/>
-									<span>809 Properties</span>
+									<span style="color:orangered">809 Properties</span>
 								</div>
 							</a>
 						</div>
@@ -88,9 +88,9 @@
 
 						<nav class="main_nav">
 							<ul class="main_nav_list">
-								<li class="main_nav_item"><a href="#">home</a></li>
-								<li class="main_nav_item"><a href="about.aspx">about us</a></li>
-								<li class="main_nav_item"><a href="listings.aspx">listings</a></li>
+								<li class="main_nav_item" ><a href="#" style="color:orangered">home</a></li>
+								<li class="main_nav_item"><a href="about.aspx" style="color:orangered">about us</a></li>
+								<li class="main_nav_item"><a href="listings.aspx" style="color:orangered">listings</a></li>
 								
 							</ul>
 						</nav>
@@ -131,7 +131,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<a href="about.html">about us</a>
+								<a href="about.aspx">about us</a>
 							</div>
 						</div>
 					</div>
@@ -381,7 +381,7 @@
 								<div class="logo">
 
                                    <img src="Images/houselogo(1).jpg" alt="" style="height:90px; width:100px"/>
-									<span>809 Properties</span>
+									<span style="color:orangered">809 Properties</span>
 								</div>
 							</a>
 						</div>

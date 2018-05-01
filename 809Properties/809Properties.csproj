@@ -117,6 +117,7 @@
     <Content Include="Images\favorite.svg" />
     <Content Include="Images\garage.png" />
     <Content Include="Images\garage.svg" />
+    <Content Include="Images\home.jpg" />
     <Content Include="Images\home_background.jpg" />
     <Content Include="Images\home_slider_bcg.jpg" />
     <Content Include="Images\houselogo%281%29.jpg" />
@@ -127,7 +128,6 @@
     <Content Include="Images\listing_slider_1.jpg" />
     <Content Include="Images\listing_video.jpg" />
     <Content Include="Images\logo.jpg" />
-    <Content Include="Images\logo.png" />
     <Content Include="Images\map_marker.png" />
     <Content Include="Images\map_marker_small.png" />
     <Content Include="Images\message.svg" />
@@ -137,7 +137,6 @@
     <Content Include="Images\news_1.jpg" />
     <Content Include="Images\news_2.jpg" />
     <Content Include="Images\news_3.jpg" />
-    <Content Include="Images\OSU.jpg" />
     <Content Include="Images\patio.png" />
     <Content Include="Images\person.jpg" />
     <Content Include="Images\phone-call.svg" />

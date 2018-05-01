@@ -36,10 +36,10 @@
 						<!-- Logo -->
 
 						<div class="logo_container">
-							<a href="#">
+							<a href="home.aspx">
 								<div class="logo">
 									<img src="Images/houselogo(1).jpg" alt="" style="height:100px; width:100px"/>
-									<span>809 Properties</span>
+									<span style="color:orangered">809 Properties</span>
 								</div>
 							</a>
 						</div>
@@ -48,9 +48,9 @@
 
 						<nav class="main_nav">
 							<ul class="main_nav_list">
-								<li class="main_nav_item"><a href="Home.aspx">home</a></li>
-								<li class="main_nav_item"><a href="about.aspx">about us</a></li>
-								<li class="main_nav_item"><a href="#">listings</a></li>
+								<li class="main_nav_item"><a href="Home.aspx" style="color:orangered">home</a></li>
+								<li class="main_nav_item"><a href="about.aspx" style="color:orangered">about us</a></li>
+								<li class="main_nav_item"><a href="#" style="color:orangered">listings</a></li>
 								
 							</ul>
 						</nav>
@@ -87,6 +87,15 @@
 						</div>
 					</div>
 				</li>
+                <li class="menu_item">
+					<div class="container">
+						<div class="row">
+							<div class="col">
+								<a href="about.aspx">about us</a>
+							</div>
+						</div>
+					</div>
+				</li>
 				
 				<li class="menu_item">
 					<div class="container">
@@ -97,24 +106,7 @@
 						</div>
 					</div>
 				</li>
-				<li class="menu_item">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<a href="news.html">news</a>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li class="menu_item">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<a href="Contact.aspx">contact</a>
-							</div>
-						</div>
-					</div>
-				</li>
+				
 			</ul>
 		</div>
 
@@ -695,7 +687,7 @@
 							<a href="#">
 								<div class="logo">
 									<img src="Images/houselogo(1).jpg" alt="" style="height:90px; width:100px"/>
-									<span>809 Properties</span>
+									<span style="color:orangered">809 Properties</span>
 								</div>
 							</a>
 						</div>

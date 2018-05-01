@@ -24,22 +24,6 @@
 		<!-- Image by: https://unsplash.com/@jbriscoe -->
 		<div class="home_background" style="background-image:url(images/home_background.jpg)"></div>
 		
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="home_content">
-						<div class="home_title">
-							<h2>about us</h2>
-						</div>
-						<div class="breadcrumbs">
-							<span><a href="Home.aspx">Home</a></span>
-							<span><a href="#"> About Us</a></span>
-							<span><a href="#"> Our Agents</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 	</div>
 
 	<!-- Header -->
@@ -53,10 +37,10 @@
 						<!-- Logo -->
 
 						<div class="logo_container">
-							<a href="#">
+							<a href="home .aspx">
 								<div class="logo">
 									<img src="Images/houselogo(1).jpg" alt="" style="height:100px; width:100px"/>
-									<span>809 Properties</span>
+									<span style="color:orangered">809 Properties</span>
 								</div>
 							</a>
 						</div>
@@ -65,10 +49,10 @@
 
 						<nav class="main_nav">
 							<ul class="main_nav_list">
-								<li class="main_nav_item"><a href="Home.aspx">home</a></li>
-								<li class="main_nav_item"><a href="#">about us</a></li>
-								<li class="main_nav_item"><a href="Listings.aspx">listings</a></li>
-								<li class="main_nav_item"><a href="Contact.aspx">contact</a></li>
+								<li class="main_nav_item" style=""><a href="Home.aspx" style="color:orangered">home</a></li>
+								<li class="main_nav_item"><a href="#" style="color:orangered">about us</a></li>
+								<li class="main_nav_item"><a href="Listings.aspx" style="color:orangered">listings</a></li>
+					
 							</ul>
 						</nav>
 						
@@ -122,26 +106,7 @@
 						</div>
 					</div>
 				</li>
-				<li class="menu_item">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<a href="news.html">news</a>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li class="menu_item">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<a href="Contact.aspx">contact</a>
-							</div>
-						</div>
-					</div>
-				</li>
-			</ul>
-		</div>
+				
 
 	</header>
 
@@ -281,7 +246,7 @@
 							<a href="#">
 								<div class="logo">
 									<img src="Images/houselogo(1).jpg" alt="" style="height:90px; width:100px"/>
-									<span>809 Properties</span>
+									<span style="color:orangered">809 Properties</span>
 								</div>
 							</a>
 						</div>
