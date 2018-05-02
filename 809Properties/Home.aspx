@@ -15,11 +15,11 @@
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css"/>
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css"/>
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css"/>
-    <link rel="stylesheet" type="text/css" href="styles/responsive.css"/>
+<link rel="stylesheet" type="text/css" href="styles/responsive.css"/>
 
 </head>
 
-<body runat="server">
+<body>
 
 <div class="super_container">
 	
@@ -36,7 +36,7 @@
 					<div class="home_slider_background" style="background-image:url(images/home_slider_bcg.jpg);"></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
-							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orange">Welcome to 809 Properties</h1>
+							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orangered">Welcome to 809 Properties</h1>
 						</div>
 					</div>
 
@@ -49,7 +49,7 @@
 					<div class="home_slider_background" style="background-image:url(images/home.jpg); "></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
-							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orange">We Provide High quality Properties in Stillwater  </h1>
+							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orangered">We Provide High quality Properties in Stillwater  </h1>
 						</div>
 					</div>
 				</div>
@@ -405,8 +405,8 @@
 					<div class="footer_col_title">say hello</div>
 					<div class="footer_contact_form_container">
 						<form id="footer_contact_form" class="footer_contact_form" action="post">
-							<input id="contact_form_name" class="input_field contact_form_name" type="text" placeholder="Name" required="required" data-error="Name is required.">
-							<input id="contact_form_email" class="input_field contact_form_email" type="email" placeholder="E-mail" required="required" data-error="Valid email is required.">
+							<input id="contact_form_name" class="input_field contact_form_name" type="text" placeholder="Name" required="required" data-error="Name is required."/>
+							<input id="contact_form_email" class="input_field contact_form_email" type="email" placeholder="E-mail" required="required" data-error="Valid email is required."/>
 							<textarea id="contact_form_message" class="text_field contact_form_message" name="message" placeholder="Message" required="required" data-error="Please, write us a message."></textarea>
 							<button id="contact_send_btn" type="submit" class="contact_send_btn trans_200" value="Submit">send</button>
 						</form>
