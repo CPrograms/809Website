@@ -237,7 +237,7 @@
 							<img class="card-img-top" src="images/809front/2024NHusband-Front.jpg" alt="https://unsplash.com/@astute">
 							<div class="card-body">
 								<div class="card-title"><a href="listings_single.html">2024 N Husband</a></div>
-								<div class="card-text">2 living areas, dining room, 2 car garage, no fenced yard, sits on 2 acres.</div>
+								<div class="card-text">Two living areas, dining room, two car garage, no fenced yard, sits on 2 acres.</div>
 								<div class="rooms">
 
 									<div class="room">
@@ -301,7 +301,7 @@
 							<img class="card-img-top" src="images/809front/2112NHusband-Front.jpg" alt="https://unsplash.com/@marcusneto">
 							<div class="card-body">
 								<div class="card-title"><a href="listings_single.html">2112 N Husband</a></div>
-								<div class="card-text">Dining area, one large living area, 2 car garage, fenced yard.</div>
+								<div class="card-text">Dining area, one large living area, two car garages, fenced yard.</div>
 								<div class="rooms">
 
 									<div class="room">

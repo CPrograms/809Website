@@ -36,7 +36,7 @@
 						<!-- Logo -->
 
 						<div class="logo_container">
-							<a href="home.aspx">
+							<a href="Home.aspx">
 								<div class="logo">
 									<img src="Images/houselogo(1).jpg" alt="" style="height:100px; width:100px"/>
 									<span style="color:orangered">809 Properties</span>
@@ -335,7 +335,7 @@
 									<div class="room">
 										<span class="room_title">Bedrooms</span>
 										<div class="room_content">
-											<div class="room_image"><img src="images/bedroom.png" alt=""></div>
+											<div class="room_image"><img src="images/bedroom.png" alt=""/></div>
 											<span class="room_number">3</span>
 										</div>
 									</div>
@@ -380,7 +380,7 @@
 							</div>
 							<div class="listing_content">
 								<div class="listing_title"><a href="listings_single.html">2024 N Husband</a></div>
-								<div class="listing_text">2 living areas, dining room, 2 car garage, no fenced yard, sits on 2 acres.</div>
+								<div class="listing_text">Two living areas, dining room, two car garage, no fenced yard, sits on two acres.</div>
 								<div class="rooms">
 
 									<div class="room">
@@ -434,7 +434,7 @@
 							</div>
 							<div class="listing_content">
 								<div class="listing_title"><a href="listings_single.html">2112 N Husband</a></div>
-								<div class="listing_text">Dining area, one large living area, 2 car garage, fenced yard</div>
+								<div class="listing_text">Dining area, one large living area, two car garage, fenced yard</div>
 								<div class="rooms">
 
 									<div class="room">
@@ -592,7 +592,7 @@
 							</div>
 							<div class="listing_content">
 								<div class="listing_title"><a href="listings_single.html">2222 N Glenwood</a></div>
-								<div class="listing_text">1 optional/bonus bedroom, large master, fenced back yard, two car garage, dining area.</div>
+								<div class="listing_text">One optional/bonus bedroom, large master, fenced back yard, two car garage, dining area.</div>
 								<div class="rooms">
 
 									<div class="room">

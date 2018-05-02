@@ -37,7 +37,7 @@
 						<!-- Logo -->
 
 						<div class="logo_container">
-							<a href="home .aspx">
+							<a href="Home .aspx">
 								<div class="logo">
 									<img src="Images/houselogo(1).jpg" alt="" style="height:100px; width:100px"/>
 									<span style="color:orangered">809 Properties</span>
@@ -106,8 +106,8 @@
 						</div>
 					</div>
 				</li>
-				
-
+				</ul>
+                </div>
 	</header>
 
 	<!-- Intro -->
