@@ -54,8 +54,8 @@
 							<ul class="main_nav_list">
 								<li class="main_nav_item"><a href="#">home</a></li>
 								<li class="main_nav_item"><a href="about.html">about us</a></li>
-								<li class="main_nav_item"><a href="listings.html">listings</a></li>
-								<li class="main_nav_item"><a href="contact.html">contact</a></li>
+								<li class="main_nav_item"><a href="Listings.aspx">listings</a></li>
+								<li class="main_nav_item"><a href="Contact.aspx">contact</a></li>
 							</ul>
 						</nav>
 						
@@ -104,7 +104,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<a href="listings.html">listings</a>
+								<a href="Listings.aspx">listings</a>
 							</div>
 						</div>
 					</div>
@@ -114,7 +114,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<a href="contact.html">contact</a>
+								<a href="Contact.aspx">contact</a>
 							</div>
 						</div>
 					</div>

@@ -15,7 +15,7 @@
 <link rel="stylesheet" type="text/css" href="styles/about_responsive.css">
 </head>
 
-<body runat="server">
+<body>
 
 <div class="super_container">
 	
