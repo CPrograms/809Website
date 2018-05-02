@@ -36,7 +36,7 @@
 					<div class="home_slider_background" style="background-image:url(images/home_slider_bcg.jpg);"></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
-							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orange">Welcome to 809 Properties</h1>
+							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orangered">Welcome to 809 Properties</h1>
 						</div>
 					</div>
 
@@ -49,7 +49,7 @@
 					<div class="home_slider_background" style="background-image:url(images/home.jpg); "></div>
 					<div class="home_slider_content_container text-center">
 						<div class="home_slider_content">
-							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orange">We Provide High quality Properties in Stillwater  </h1>
+							<h1 data-animation-in="flipInX" data-animation-out="animate-out fadeOut" style="color:orangered">We Provide High quality Properties in Stillwater  </h1>
 						</div>
 					</div>
 				</div>
