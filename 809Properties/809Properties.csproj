@@ -163,7 +163,6 @@
     <Content Include="listings_single.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config" />
-    <Content Include="Site.Master" />
     <Content Include="scripts\esm\popper-utils.js" />
     <Content Include="scripts\esm\popper-utils.min.js" />
     <Content Include="scripts\esm\popper.js" />
@@ -172,7 +171,6 @@
     <Content Include="scripts\esm\popper.js.map" />
     <Content Include="scripts\esm\popper-utils.min.js.map" />
     <Content Include="scripts\esm\popper-utils.js.map" />
-    <Content Include="ProjectTest.Master" />
     <None Include="Properties\PublishProfiles\809Properties - Web Deploy.pubxml" />
     <None Include="scripts\jquery-3.0.0-vsdoc.js" />
     <Content Include="scripts\jquery-3.0.0.js" />
@@ -232,21 +230,7 @@
     <Compile Include="Listings.aspx.designer.cs">
       <DependentUpon>Listings.aspx</DependentUpon>
     </Compile>
-    <Compile Include="ProjectTest.Master.cs">
-      <DependentUpon>ProjectTest.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ProjectTest.Master.designer.cs">
-      <DependentUpon>ProjectTest.Master</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Site.Master.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Site.Master.designer.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="scripts\index.d.ts" />
