@@ -1,0 +1,10 @@
+ @{
+                                    string email = "";
+                                    string fullname = "";
+                                    string message = "";
+                                if(IsPost)
+                                    {
+                                        email = Request.Form["email"];
+                                        fullname = Request.Form["fullname"];
+                                        message = Request.form["message"]
+                                    }
